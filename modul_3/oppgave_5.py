@@ -6,3 +6,5 @@ antall_studenter = 30
 # jeg tror det som kommer til å skje er at python kommer til å si hvilket nummer som er høyest.
 alder > aldersgrense 
 print("Er du gammel nok til å kjøre bil?", alder > aldersgrense)
+alder == 31
+print("Er alderen lik 31?", alder == 31)
