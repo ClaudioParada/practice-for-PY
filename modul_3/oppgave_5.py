@@ -8,3 +8,6 @@ alder > aldersgrense
 print("Er du gammel nok til å kjøre bil?", alder > aldersgrense)
 alder == 31
 print("Er alderen lik 31?", alder == 31)
+
+#Jeg skal være ærlig å si jeg skjønte egentlig ikke oppgave 5. Den for meg  var litt forvirrende. Visste ikke hvordan jeg skulle gjøre det.
+
